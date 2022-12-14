@@ -16,9 +16,9 @@
            <span class="material-icons">home</span>
            <span class="text">Home</span>
         </router-link>
-        <router-link class="button" to="/about">
+        <router-link class="button" to="/CRUD">
            <span class="material-icons">visibility</span>
-           <span class="text">About</span>
+           <span class="text">CRUD</span>
         </router-link>  
     </div>
 

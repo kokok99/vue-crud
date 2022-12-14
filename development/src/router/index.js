@@ -10,8 +10,8 @@ const router = createRouter({
 
         },
         {
-            path: '/about',
-            component: () => import('../views/About.vue')
+            path: '/CRUD',
+            component: () => import('../views/CRUD.vue')
         }
     ]
 })
